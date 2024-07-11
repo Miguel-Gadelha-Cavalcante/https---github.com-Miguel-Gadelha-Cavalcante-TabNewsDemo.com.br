@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Desculpa Sergio, caguei o pau por algo simples, pelo menos voltei ao mesmo lugar que eutava em pouco tempo, vamos indo e continuando</h1>
+    return <h1>Você ainda tem esperança, mantenha-se nas boas ações, fuja desse tipo de problema, você vai conseguigr não ser futil.</h1>
 }
 
 export default Home;
