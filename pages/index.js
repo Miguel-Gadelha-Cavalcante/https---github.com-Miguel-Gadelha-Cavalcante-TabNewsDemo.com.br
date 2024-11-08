@@ -14,4 +14,8 @@ function Home() {
 function teste() {
   console.log("Ovo de codorna");
 }
+
+function teste2() {
+  console.log("indentação errada");
+}
 export default Home;
