@@ -1,2 +1,2 @@
 <h1>Meu parceiro, eu to um caco</h1>
-<p>não avi ter futuro, aproveite o que tem que daqui é so ladeira abaixo.</p>
+<p>Desabafar faz bem pra alma, não guarde as coisas pra você, procure alguém de confiança que você possa ter segurança de conversar, isso te deixa tão leve</p>
